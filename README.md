@@ -1,7 +1,5 @@
 ### 👋 Hi,there 
-  
-[![Hits](https://hits.sh/github.com/abi-hong.svg?view=today-total&color=80b3fc&labelColor=114afa)](https://hits.sh/github.com/abi-hong/) 
-  
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abi-hong&show_icons=true&theme=radical&count_private=true)
   
   </br> 
