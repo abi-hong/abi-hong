@@ -7,4 +7,4 @@
 
 ### Contact
 <a href="mailto:flffjakfwm20@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="[https://velog.io/@ilmerry](https://velog.io/@heesoo)" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<a href="[https://velog.io/@heesoo](https://velog.io/@heesoo)" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
